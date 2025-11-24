@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# 🚨 Cybercrime Prediction Framework - Smart India Hackathon 2024
 
 
@@ -124,3 +125,7 @@ pip install -r requirements.txt
 
 streamlit run frontend/dashboard.py
 
+=======
+# cybercrime-prediction-sih2024
+🏆 Smart India Hackathon 2024 - AI-Powered Cybercrime Prediction Framework | Team ALGORITHM ARMY
+>>>>>>> 94afb80692de2e9aad5875ec009fa4dc68f44e3d

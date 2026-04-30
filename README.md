@@ -19,9 +19,9 @@
 
 
 
-\- \*\*Team Name:\*\* madhu007M
+\- \*\*Team Name:\*\*  ALGORITHM ARMY
 
-\- \*\*Team Size:\*\* 3 Members
+\- \*\*Team Size:\*\* 5 Members
 
 \- \*\*Hackathon:\*\* Smart India Hackathon 2024 - Grand Finale
 
@@ -29,7 +29,7 @@
 
 \- \*\*Grand Finale Date:\*\* 2025-11-30
 
-\- \*\*Days Remaining:\*\* 6
+ 
 
 
 
